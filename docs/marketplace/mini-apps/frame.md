@@ -18,13 +18,13 @@ date: 2024-02-02 00:00:00 +0300
 **Пример настройки Nginx**
 
 ```
-add_header Content-Security-Policy frame-ancestors 'self' *.invoicebox.ru;
+add_header Content-Security-Policy "frame-ancestors 'self' *.invoicebox.ru";
 ```
 
 **Пример настройки Apache**
 
 ```
-Header always set Content-Security-Policy frame-ancestors 'self' *.invoicebox.ru;
+Header always set Content-Security-Policy "frame-ancestors 'self' *.invoicebox.ru";
 ```
 
 {: .warning }
