@@ -117,8 +117,9 @@ Accept: application/json
 | orderSetting           | нет          | [OrderSetting](#ordersetting)      | Дополнительные настройки параметров заказа                                                                                                   |                                        |
 | parentId               | нет          | string(36)                         | Идентификатор базового заказа, применимо для создания [корректирующих заказов](/docs/merchant/refund/correction/)                            | `01771534-196a-1105-839a-82422289d6d9` |
 | orderContainerId       | нет          | string(36)                         | Идентификатор основного заказа, применимо для добавления заказа к уже существующему счёту                                                    | `01771534-196a-1105-839a-82422289d6d9` |
-| shopId                 | нет          | string(36)                         | Идентификатор связанного магазина/маркетплейса                                                                                               | `06581534-196a-1105-839a-82422289d6d9` |
-| processable            | нет          | bool                               | Является ли заказ процессинговым. [Non-processable orders](/docs/merchant/order/unprocessable-order/)                                        | `true`, `false`                        |
+| shopId                 | нет          | string(36)                         | Идентификатор связанного магазина/маркетплейса                                                                                               | `06581534-196a-1105-839a-82422289d6d8` |
+| userAccountId          | нет          | string(36)                         | Идентификатор программы лояльности                                                                                                           | `06581534-196a-1105-839a-82422289d6d7` |
+| processable            | нет          | bool                               | Является ли заказ [процессинговым.](/docs/merchant/order/non-processable-order/)                                                             | `true`, `false`                        |
 
 
 ## OrderResponse
