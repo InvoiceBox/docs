@@ -1,0 +1,13 @@
+stages:
+  - deploy
+pages:
+  image: registry.local.invbox.ru/invoicebox/infrastructure/infrastructure/jekyll
+  stage: deploy
+  artifacts:
+    paths:
+      - public
+  publish: public
+  only:
+    - master
+  script:
+    - jekyll build -d public/
