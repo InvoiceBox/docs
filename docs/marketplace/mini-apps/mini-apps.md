@@ -4,7 +4,7 @@ nav_order: 20
 title: "Мини-приложения"
 parent: "Маркетплейс"
 has_children: true
-permalink: /docs/marketplace/mini-apps
+permalink: docs/marketplace/mini-apps
 date: 2024-02-01 00:00:00 +0300
 ---
 

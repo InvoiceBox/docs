@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /sitemap/
+permalink: sitemap/
 author_profile: false
 date: 2023-10-25 00:00:00 +0300
 ---

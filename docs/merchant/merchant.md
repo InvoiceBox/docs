@@ -5,7 +5,7 @@ description: "Настройте приём платежей через сист
 nav_order: 60
 has_children: true
 tile: true
-permalink: /docs/merchant
+permalink: docs/merchant
 date: 2023-11-10 00:00:00 +0300
 ---
 

@@ -6,7 +6,7 @@ description: "Готовые сценарии и функции с описан�
 has_children: true
 tile: true
 ribbon: "Новое"
-permalink: /docs/scenarios
+permalink: docs/scenarios
 date: 2023-11-01 00:00:00 +0300
 ---
 

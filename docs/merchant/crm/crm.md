@@ -4,7 +4,7 @@ nav_order: 85
 title: "Модули для CRM"
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/crm
+permalink: docs/merchant/crm
 date: 2023-11-10 00:00:00 +0300
 ---
 

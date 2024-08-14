@@ -3,7 +3,7 @@ layout: default
 nav_order: 50
 title: "⛽ B2B продажи на АЗС"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/gas
+permalink: docs/scenarios/gas
 date: 2024-02-02 00:00:00 +0300
 ---
 

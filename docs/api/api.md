@@ -3,7 +3,7 @@ layout: default
 nav_order: 50
 title: "Подключение к API"
 has_children: true
-permalink: /docs/api
+permalink: docs/api
 date: 2023-11-21 00:00:00 +0300
 ---
 

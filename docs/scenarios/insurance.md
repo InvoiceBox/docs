@@ -3,7 +3,7 @@ layout: default
 nav_order: 80
 title: "🏥 B2B продажи услуг страхования пассажиров"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/insurance
+permalink: docs/scenarios/insurance
 date: 2024-02-08 00:00:00 +0300
 ---
 

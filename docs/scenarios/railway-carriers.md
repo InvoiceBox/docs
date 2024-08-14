@@ -3,7 +3,7 @@ layout: default
 nav_order: 40
 title: "🚆 B2B продажи ж/д билетов"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/railway-carriers
+permalink: docs/scenarios/railway-carriers
 date: 2024-01-25 00:00:00 +0300
 ---
 

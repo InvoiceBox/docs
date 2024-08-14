@@ -5,7 +5,7 @@ description: "Размещайте и управляйте своим магаз
 nav_order: 100
 has_children: true
 tile: true
-permalink: /docs/marketplace
+permalink: docs/marketplace
 date: 2023-11-04 00:00:00 +0300
 ---
 

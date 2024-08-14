@@ -4,7 +4,7 @@ nav_order: 80
 title: "Модули для CMS"
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/cms
+permalink: docs/merchant/cms
 date: 2023-11-15 00:00:00 +0300
 ---
 

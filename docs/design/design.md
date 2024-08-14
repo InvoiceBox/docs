@@ -3,7 +3,7 @@ layout: default
 title: "Дизайн-система"
 nav_order: 115
 has_children: true
-permalink: /docs/design
+permalink: docs/design
 date: 2024-02-11 00:00:00 +0300
 ---
 

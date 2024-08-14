@@ -4,7 +4,7 @@ title: "Работа с заказом"
 nav_order: 30
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/order
+permalink: docs/merchant/order
 date: 2023-10-25 00:00:00 +0300
 ---
 

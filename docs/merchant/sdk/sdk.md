@@ -4,7 +4,7 @@ nav_order: 60
 title: "SDK"
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/sdk
+permalink: docs/merchant/sdk
 date: 2023-10-25 00:00:00 +0300
 ---
 

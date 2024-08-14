@@ -3,7 +3,7 @@ layout: nocompress
 nav_order: 20
 title: "Банки, PSP и агрегаторы"
 parent: "Партнёрское API"
-permalink: /docs/partner/payment-service-provider
+permalink: docs/partner/payment-service-provider
 date: 2023-11-21 00:00:00 +0300
 ---
 

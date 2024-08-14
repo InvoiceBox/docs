@@ -3,7 +3,7 @@ layout: default
 nav_order: 70
 title: "Платёжные виджеты на сайт"
 parent: "Приём платежей"
-permalink: /docs/merchant/widget
+permalink: docs/merchant/widget
 date: 2023-10-28 00:00:00 +0300
 ---
 

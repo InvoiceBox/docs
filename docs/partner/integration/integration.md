@@ -4,7 +4,7 @@ nav_order: 10
 title: "Интеграция магазина"
 parent: "Партнёрское API"
 has_children: true
-permalink: /docs/partner/integration
+permalink: docs/partner/integration
 date: 2023-10-26 00:00:00 +0300
 ---
 

@@ -4,7 +4,7 @@ nav_order: 100
 title: "Интеграции с PSS/GDS"
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/pss
+permalink: docs/merchant/pss
 date: 2023-11-04 00:00:00 +0300
 ---
 

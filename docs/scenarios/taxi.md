@@ -3,7 +3,7 @@ layout: default
 nav_order: 70
 title: "🚕 B2B продажи такси и трансфера"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/taxi
+permalink: docs/scenarios/taxi
 date: 2024-02-08 00:00:00 +0300
 ---
 

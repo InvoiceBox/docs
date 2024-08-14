@@ -5,7 +5,7 @@ description: "Реализация функционала для партнёр�
 nav_order: 110
 has_children: true
 tile: true
-permalink: /docs/partner
+permalink: docs/partner
 date: 2023-11-01 00:00:00 +0300
 ---
 

@@ -3,7 +3,7 @@ layout: default
 nav_order: 30
 title: "✈️ B2B продажи авиабилетов"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/air-carriers
+permalink: docs/scenarios/air-carriers
 date: 2024-01-25 00:00:00 +0300
 ---
 

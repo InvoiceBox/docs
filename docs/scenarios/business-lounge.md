@@ -3,7 +3,7 @@ layout: default
 nav_order: 60
 title: "⭐ B2B продажи бизнес-залов"
 parent: "Сценарии и бизнес-кейсы"
-permalink: /docs/scenarios/business-lounge
+permalink: docs/scenarios/business-lounge
 date: 2024-02-09 00:00:00 +0300
 ---
 

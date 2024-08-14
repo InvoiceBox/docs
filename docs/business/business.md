@@ -5,7 +5,7 @@ description: "Управление вашей организацией в сис
 nav_order: 70
 has_children: true
 tile: true
-permalink: /docs/business
+permalink: docs/business
 date: 2023-10-25 00:00:00 +0300
 ---
 

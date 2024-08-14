@@ -4,7 +4,7 @@ title: "Работа с возвратом"
 nav_order: 40
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/refund
+permalink: docs/merchant/refund
 date: 2023-10-25 00:00:00 +0300
 ---
 

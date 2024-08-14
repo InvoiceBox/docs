@@ -4,7 +4,7 @@ nav_order: 90
 title: "Модули для ERP"
 parent: "Приём платежей"
 has_children: true
-permalink: /docs/merchant/erp
+permalink: docs/merchant/erp
 date: 2023-10-25 00:00:00 +0300
 ---
 
