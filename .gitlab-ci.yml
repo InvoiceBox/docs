@@ -10,4 +10,4 @@ pages:
   only:
     - master
   script:
-    - jekyll build -d public/
+    - bundle exec jekyll build -d public/
