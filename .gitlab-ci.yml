@@ -15,4 +15,4 @@ pages:
     - master
   script:
     - bundle install
-    - bundle exec jekyll build -d public/
+    - bundle exec jekyll build --baseurl /docs/ -d public/
