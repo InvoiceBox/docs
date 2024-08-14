@@ -16,4 +16,4 @@ pages:
   script:
     - "echo url: https://invoicebox.gitlab.invbox.ru > _config_internal.yml"
     - bundle install
-    - bundle exec jekyll build --baseurl /docs/ --config _config.yml,_config_internal.yml -d public/
+    - bundle exec jekyll build --baseurl /docs/docs/ --config _config.yml,_config_internal.yml -d public/
