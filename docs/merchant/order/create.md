@@ -192,6 +192,7 @@ Accept: application/json
 | customerLockedFields  | нет          | array<string> | Набор полей из [Customer](#customer), которые требуется запретить для редактирования на платежной странице      | `['type', 'name', 'phone', 'email', 'vatNumber', registrationAddress']` |
 | paymentMethodIdLocked | нет          | bool          | Запретить изменение способа оплаты (платёжного инструмента)                                                     | true - запретить изменения, по умолчанию false                          |
 | paymentMethodId       | нет          | int           | Идентификатор предвыбранного способа оплаты (платёжного инструмента)                                            | `123`                                                                   |
+| deliveryAddress       | нет          | string        | Полный адрес доставки товара                                                                                    | `Московская область, Московская область, городской округ Химки, Химки, Вашутинское шоссе, 6` |
 
 
 ## OrderSetting
